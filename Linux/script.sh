@@ -1,3 +1,4 @@
 #!/bin/bash
 
-echo "Hello Git."
+echo "Hello from GitHub!"
+
