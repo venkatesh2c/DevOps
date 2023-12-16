@@ -2,3 +2,5 @@
 
 echo "Hello from GitHub!"
 
+echo "Hello Git, for this job!"
+
