@@ -11,7 +11,7 @@ pipeline {
                 sh '''
                 echo "This is Stage-2"
                 '''
-                }
             }
         }
     }
+ }
