@@ -16,7 +16,7 @@ pipeline {
         stage('Stage-3'){
             steps{
                 sh '''
-                bash ${WORKSPACE}/Linux/Script.sh
+                bash ${WORKSPACE}/Linux/script.sh
                 '''
             }
         }
